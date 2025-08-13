@@ -1,4 +1,4 @@
-# Portfolio Risk & Optimization (All simulated Data)
+# Portfolio Risk & Optimization (All simulated data)
 
 This is a small, self-contained project that **simulates 5 equities**, builds **20,000 random portfolios**, plots the **efficient frontier**, and identifies the **Max Sharpe** portfolio. It also computes **1-day 95% VaR** and **CVaR** for the Max Sharpe portfolio.
 
